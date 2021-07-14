@@ -1,0 +1,16 @@
+E:\Teste\TesteLogica\bin\Debug\net5.0\Fibonacci.exe
+E:\Teste\TesteLogica\bin\Debug\net5.0\Fibonacci.deps.json
+E:\Teste\TesteLogica\bin\Debug\net5.0\Fibonacci.runtimeconfig.json
+E:\Teste\TesteLogica\bin\Debug\net5.0\Fibonacci.runtimeconfig.dev.json
+E:\Teste\TesteLogica\bin\Debug\net5.0\Fibonacci.dll
+E:\Teste\TesteLogica\bin\Debug\net5.0\ref\Fibonacci.dll
+E:\Teste\TesteLogica\bin\Debug\net5.0\Fibonacci.pdb
+E:\Teste\TesteLogica\obj\Debug\net5.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teste\TesteLogica\obj\Debug\net5.0\Fibonacci.AssemblyInfoInputs.cache
+E:\Teste\TesteLogica\obj\Debug\net5.0\Fibonacci.AssemblyInfo.cs
+E:\Teste\TesteLogica\obj\Debug\net5.0\Fibonacci.csproj.CoreCompileInputs.cache
+E:\Teste\TesteLogica\obj\Debug\net5.0\Fibonacci.dll
+E:\Teste\TesteLogica\obj\Debug\net5.0\ref\Fibonacci.dll
+E:\Teste\TesteLogica\obj\Debug\net5.0\Fibonacci.pdb
+E:\Teste\TesteLogica\obj\Debug\net5.0\Fibonacci.genruntimeconfig.cache
+E:\Teste\TesteLogica\obj\Debug\net5.0\Fibonacci.csproj.AssemblyReference.cache

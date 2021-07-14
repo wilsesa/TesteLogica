@@ -1,0 +1,16 @@
+E:\Teste\Casa\bin\Debug\net5.0\Casa.exe
+E:\Teste\Casa\bin\Debug\net5.0\Casa.deps.json
+E:\Teste\Casa\bin\Debug\net5.0\Casa.runtimeconfig.json
+E:\Teste\Casa\bin\Debug\net5.0\Casa.runtimeconfig.dev.json
+E:\Teste\Casa\bin\Debug\net5.0\Casa.dll
+E:\Teste\Casa\bin\Debug\net5.0\ref\Casa.dll
+E:\Teste\Casa\bin\Debug\net5.0\Casa.pdb
+E:\Teste\Casa\obj\Debug\net5.0\Casa.csproj.AssemblyReference.cache
+E:\Teste\Casa\obj\Debug\net5.0\Casa.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teste\Casa\obj\Debug\net5.0\Casa.AssemblyInfoInputs.cache
+E:\Teste\Casa\obj\Debug\net5.0\Casa.AssemblyInfo.cs
+E:\Teste\Casa\obj\Debug\net5.0\Casa.csproj.CoreCompileInputs.cache
+E:\Teste\Casa\obj\Debug\net5.0\Casa.dll
+E:\Teste\Casa\obj\Debug\net5.0\ref\Casa.dll
+E:\Teste\Casa\obj\Debug\net5.0\Casa.pdb
+E:\Teste\Casa\obj\Debug\net5.0\Casa.genruntimeconfig.cache

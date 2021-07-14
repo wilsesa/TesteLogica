@@ -1,0 +1,16 @@
+E:\Teste\ListCasa\obj\Debug\net5.0\ListCasa.csproj.AssemblyReference.cache
+E:\Teste\ListCasa\obj\Debug\net5.0\ListCasa.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teste\ListCasa\obj\Debug\net5.0\ListCasa.AssemblyInfoInputs.cache
+E:\Teste\ListCasa\obj\Debug\net5.0\ListCasa.AssemblyInfo.cs
+E:\Teste\ListCasa\obj\Debug\net5.0\ListCasa.csproj.CoreCompileInputs.cache
+E:\Teste\ListCasa\bin\Debug\net5.0\ListCasa.exe
+E:\Teste\ListCasa\bin\Debug\net5.0\ListCasa.deps.json
+E:\Teste\ListCasa\bin\Debug\net5.0\ListCasa.runtimeconfig.json
+E:\Teste\ListCasa\bin\Debug\net5.0\ListCasa.runtimeconfig.dev.json
+E:\Teste\ListCasa\bin\Debug\net5.0\ListCasa.dll
+E:\Teste\ListCasa\bin\Debug\net5.0\ref\ListCasa.dll
+E:\Teste\ListCasa\bin\Debug\net5.0\ListCasa.pdb
+E:\Teste\ListCasa\obj\Debug\net5.0\ListCasa.dll
+E:\Teste\ListCasa\obj\Debug\net5.0\ref\ListCasa.dll
+E:\Teste\ListCasa\obj\Debug\net5.0\ListCasa.pdb
+E:\Teste\ListCasa\obj\Debug\net5.0\ListCasa.genruntimeconfig.cache

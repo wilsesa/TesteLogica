@@ -1,0 +1,16 @@
+E:\Teste\Triangulo\bin\Debug\net5.0\Triangulo.exe
+E:\Teste\Triangulo\bin\Debug\net5.0\Triangulo.deps.json
+E:\Teste\Triangulo\bin\Debug\net5.0\Triangulo.runtimeconfig.json
+E:\Teste\Triangulo\bin\Debug\net5.0\Triangulo.runtimeconfig.dev.json
+E:\Teste\Triangulo\bin\Debug\net5.0\Triangulo.dll
+E:\Teste\Triangulo\bin\Debug\net5.0\ref\Triangulo.dll
+E:\Teste\Triangulo\bin\Debug\net5.0\Triangulo.pdb
+E:\Teste\Triangulo\obj\Debug\net5.0\Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teste\Triangulo\obj\Debug\net5.0\Triangulo.AssemblyInfoInputs.cache
+E:\Teste\Triangulo\obj\Debug\net5.0\Triangulo.AssemblyInfo.cs
+E:\Teste\Triangulo\obj\Debug\net5.0\Triangulo.csproj.CoreCompileInputs.cache
+E:\Teste\Triangulo\obj\Debug\net5.0\Triangulo.dll
+E:\Teste\Triangulo\obj\Debug\net5.0\ref\Triangulo.dll
+E:\Teste\Triangulo\obj\Debug\net5.0\Triangulo.pdb
+E:\Teste\Triangulo\obj\Debug\net5.0\Triangulo.genruntimeconfig.cache
+E:\Teste\Triangulo\obj\Debug\net5.0\Triangulo.csproj.AssemblyReference.cache

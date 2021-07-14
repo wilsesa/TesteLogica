@@ -1,0 +1,16 @@
+E:\Teste\Fibonaci1\bin\Debug\net5.0\Fibonaci1.exe
+E:\Teste\Fibonaci1\bin\Debug\net5.0\Fibonaci1.deps.json
+E:\Teste\Fibonaci1\bin\Debug\net5.0\Fibonaci1.runtimeconfig.json
+E:\Teste\Fibonaci1\bin\Debug\net5.0\Fibonaci1.runtimeconfig.dev.json
+E:\Teste\Fibonaci1\bin\Debug\net5.0\Fibonaci1.dll
+E:\Teste\Fibonaci1\bin\Debug\net5.0\ref\Fibonaci1.dll
+E:\Teste\Fibonaci1\bin\Debug\net5.0\Fibonaci1.pdb
+E:\Teste\Fibonaci1\obj\Debug\net5.0\Fibonaci1.csproj.AssemblyReference.cache
+E:\Teste\Fibonaci1\obj\Debug\net5.0\Fibonaci1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teste\Fibonaci1\obj\Debug\net5.0\Fibonaci1.AssemblyInfoInputs.cache
+E:\Teste\Fibonaci1\obj\Debug\net5.0\Fibonaci1.AssemblyInfo.cs
+E:\Teste\Fibonaci1\obj\Debug\net5.0\Fibonaci1.csproj.CoreCompileInputs.cache
+E:\Teste\Fibonaci1\obj\Debug\net5.0\Fibonaci1.dll
+E:\Teste\Fibonaci1\obj\Debug\net5.0\ref\Fibonaci1.dll
+E:\Teste\Fibonaci1\obj\Debug\net5.0\Fibonaci1.pdb
+E:\Teste\Fibonaci1\obj\Debug\net5.0\Fibonaci1.genruntimeconfig.cache
